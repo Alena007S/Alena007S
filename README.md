@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm Alena a Junior QA engineer.
 
 <!--
 **Alena007S/Alena007S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
